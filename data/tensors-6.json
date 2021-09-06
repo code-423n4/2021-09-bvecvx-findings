@@ -1,0 +1,9 @@
+{
+  "contest": "bveCVX by BadgerDAO contest",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "1",
+  "title": "toLock in the comments is a % while in the code it is measured in bips.",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2021-09-bvecvx-findings/issues/6"
+}
