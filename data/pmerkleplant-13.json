@@ -1,0 +1,9 @@
+{
+  "contest": "bveCVX by BadgerDAO contest",
+  "handle": "pmerkleplant",
+  "address": "0xcaE5f523e58fe033b243da40f2595557c4E1718e",
+  "risk": "G",
+  "title": "Make variable veCVXStrategy::MAX_BPS constant",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2021-09-bvecvx-findings/issues/13"
+}
