@@ -1,0 +1,9 @@
+{
+  "contest": "bveCVX by BadgerDAO contest",
+  "handle": "tabish",
+  "address": "0xD6FCD2F85fE975bB9b0f3C1B1c6802bB09d33E43",
+  "risk": "0",
+  "title": "The comments incorrectly indicate the range in which `toLock` input should be given.",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-09-bvecvx-findings/issues/15"
+}
