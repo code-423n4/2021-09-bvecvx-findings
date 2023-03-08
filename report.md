@@ -1,3 +1,11 @@
+---
+sponsor: "BadgerDAO"
+slug: "2021-09-bvecvx"
+date: "2021-11-05"
+title: "bveCVX by BadgerDAO contest"
+findings: "https://github.com/code-423n4/2021-09-bvecvx-findings"
+contest: 31
+---
 
 # Overview
 
